@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NoteTaker</string>
+    <string name="notesTextView">Notes</string>
+    <string name="enter_your_notes">Enter Your Notes</string>
+    <string name="settings">Settings</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+</resources>
